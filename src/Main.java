@@ -1,6 +1,4 @@
-package main;
-
-import entity.Abiturient;
+import model.Abiturient;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
